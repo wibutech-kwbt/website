@@ -9,7 +9,7 @@ We are weebs, we love technology, and we are proud of it.
 This is the official blog website repository of Wibutech's organization. Our stack are as follows:
 
 - Gatsby.js
-- Github Pages
+- Vercel
 
 And that's it.
 
@@ -22,10 +22,10 @@ Pull requests can be made with these rules:
 1. You don't do bullshit PR.
 
 2. PRs that contains post updates must follow this set of rules:
-    1. Post must be something worth reading.
-    2. Headings and codeblocks must be separated by a new line.
-    3. Use `<your-link>` to reference a link if not in an anchor.
-    4. Always introduce what the post about and make a conclusion/verdict/wrap-up after the post content.
+   1. Post must be something worth reading.
+   2. Headings and codeblocks must be separated by a new line.
+   3. Use `<your-link>` to reference a link if not in an anchor.
+   4. Always introduce what the post about and make a conclusion/verdict/wrap-up after the post content.
 
 Example of a good post markdown looks like this:
 
